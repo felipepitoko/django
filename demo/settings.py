@@ -113,7 +113,8 @@ USE_I18N = True
 USE_TZ = True
 
 ALLOWED_HOSTS =[
-    'felipepitoko.pythonanywhere.com'
+    'felipepitoko.pythonanywhere.com',
+    '127.0.0.1'
 ]
 
 
